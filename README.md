@@ -100,6 +100,7 @@ https://github.com/user-attachments/assets/77fc98fa-6092-4654-ada8-2753b5f8d675
 ## 8일차
 - 자료구조/알고리즘
     - 검색 : [노트북](./day08/da01_search.ipynb)
-        - 검색 구현 : [파이썬]()  //  476 페이지 (나중에 작성하고 올리기)
+        - 검색 구현 : [파이썬](./day08/p476_practice.py)
+        - 검색 구현 : [파이썬](./day08/p481_practice.py
 
     - 코딩테스트
